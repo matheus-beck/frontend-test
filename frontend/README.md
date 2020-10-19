@@ -1,4 +1,4 @@
-# 👨‍💻 Full Stack Engineer Challenge
+# 🥕 Full Stack Engineer Challenge
 
 <p align="center">
   <img alt="ingenious logo" width="25%" src="https://www.ingenious.agency/static/images/logos_ingenious.svg">
