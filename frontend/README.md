@@ -53,7 +53,7 @@ yarn start
 
 3. Verify the running results output:
 
-![Running results output](back_result.png)
+![Running results output](back_result.png)  
 ![Running results output](front_result.png)
 
 <h2><a class="anchor" aria-hidden="true" href="#memo-license">:pencil:</a> License </h2>
