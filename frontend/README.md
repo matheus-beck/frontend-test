@@ -1,68 +1,64 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 👨‍💻 Full Stack Engineer Challenge
 
-## Available Scripts
+<p align="center">
+  <img alt="ingenious logo" width="15%" src="https://www.ingenious.agency/static/images/logos_ingenious.svg">
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub powered by" src="https://img.shields.io/badge/React.js-green.svg?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheus-beck/frontend-test">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheus-beck/frontend-test">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheus-beck/frontend-test">
+</p>
 
-### `yarn start`
+Events App developed using React.js for the Full Stack Engineer challenge from a company.  
+You can find a deployed version of the app here: https://matheus-beck.github.io/frontend-test/
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🎥 App Demonstration
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![React execution](execution.gif)
 
-### `yarn test`
+## 💾 Development Dependencies Used
+- "axios": "^0.20.0",
+- "gh-pages": "^3.1.0",
+- "list-react-files": "^0.2.0",
+- "polished": "^4.0.3",
+- "react": "^16.14.0",
+- "react-dom": "^16.14.0",
+- "react-icons": "^3.11.0",
+- "react-router-dom": "^5.2.0",
+- "react-scripts": "3.4.3",
+- "react-share": "^4.3.1",
+- "styled-components": "^5.2.0"
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎬 Getting Started
 
-### `yarn build`
+1. Clone the project into your machine and install all dependencies described above using:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```console
+yarn install
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+2. Now, to run the backend go to the backend folder and run:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```console
+yarn start
+```
 
-### `yarn eject`
+2. Now, to run the frontend go to the frontend folder and run:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```console
+yarn start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Verify the running results output:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Running results output](back_result.png)
+![Running results output](front_result.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<h2><a class="anchor" aria-hidden="true" href="#memo-license">:pencil:</a> License </h2>
+<p>This project is under the MIT license. See the <a href="https://github.com/matheus-beck/blog/blob/master/LICENSE">LICENSE</a> for more information.</p>
+---
 
-## Learn More
+Made with ❤️ by Matheus Beck 👋 [Get in touch!](https://www.linkedin.com/in/matheus-beck/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
