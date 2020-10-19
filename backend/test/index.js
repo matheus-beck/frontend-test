@@ -94,10 +94,10 @@ test('POST /events creates an event and returns it with an id', function (t) {
     .end(function (err, res) {
       t.error(err, 'No error');
 
-      postEvent.id = 3;
+      postEvent.id = 2;
       t.same(res.body, {event: postEvent});
 
-      fs.unlinkSync(__dirname + '/../app/db/events/3.json');
+      fs.unlinkSync(__dirname + '/../app/db/events/2.json');
 
       t.end();
     });
