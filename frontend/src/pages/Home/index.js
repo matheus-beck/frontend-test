@@ -50,7 +50,7 @@ class Home extends Component {
               </button>
               <button>
                 <TwitterShareButton url={window.location.href} 
-                  title={`I'm going to ${event.title} @ ${event.dates}.`}
+                  title={`I'm going to ${event.title} @ ${event.dates[0]}.`}
                 >
                   <TwitterIcon size={32} round  />
                   <span> TWEET THIS EVENT</span>
