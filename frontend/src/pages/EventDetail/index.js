@@ -30,20 +30,6 @@ class EventDetail extends Component {
           </li>
           <span>Description:</span>
           <p>{event.description}</p>
-          {/* <button
-            type="button"
-            onClick={() => this.handleAddevent(event.id)}
-          >
-            <div>
-              <MdEvent size={16} color="#FFF" />{' '}
-              {amount[event.id] || 0}
-            </div>
-            <GoToEvent>
-              <Link to={`/event/${event.id}`} style={{ textDecoration: 'none' }}>
-                <span to={`/event/${event.id}`}> VIEW EVENT DETAILS </span>
-              </Link>
-            </GoToEvent>
-          </button> */}
         </li>
       </EventDetails>
     )
