@@ -33,7 +33,7 @@ class EventForm extends Component {
     console.log(this.state)
     let body = { event: this.state } 
     console.log(JSON.stringify(body))
-      fetch('http://localhost:3000/events', {
+      fetch('https://boiling-waters-87925.herokuapp.com/events', {
         headers : { 
           'Content-Type': 'application/json',
           'Accept': 'application/json'
