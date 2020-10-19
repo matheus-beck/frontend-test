@@ -57,7 +57,7 @@ yarn start
 ![Running results output](front_result.png)
 
 <h2><a class="anchor" aria-hidden="true" href="#memo-license">:pencil:</a> License </h2>
-<p>This project is under the MIT license. See the <a href="https://github.com/matheus-beck/blog/blob/master/LICENSE">LICENSE</a> for more information.</p>
+<p>This project is under the MIT license. See the <a href="https://github.com/matheus-beck/frontend-test/blob/master/LICENSE">LICENSE</a> for more information.</p>
 ---
 
 Made with ❤️ by Matheus Beck 👋 [Get in touch!](https://www.linkedin.com/in/matheus-beck/)
