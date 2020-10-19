@@ -1,7 +1,7 @@
 # 👨‍💻 Full Stack Engineer Challenge
 
 <p align="center">
-  <img alt="ingenious logo" width="15%" src="https://www.ingenious.agency/static/images/logos_ingenious.svg">
+  <img alt="ingenious logo" width="25%" src="https://www.ingenious.agency/static/images/logos_ingenious.svg">
 </p>
 
 <p align="center">
