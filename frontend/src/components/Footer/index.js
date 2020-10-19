@@ -15,7 +15,4 @@ function Footer() {
   );
 }
 
-// export default connect((state) => ({
-//   totalEvents: state.events.length,
-// }))(Header);
 export default Footer;
