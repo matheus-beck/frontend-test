@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub powered by" src="https://img.shields.io/badge/React.js-green.svg?style=flat-square">
+  <img alt="GitHub powered by" src="https://img.shields.io/badge/Powered%20by-React.js-blue.svg?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheus-beck/frontend-test">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheus-beck/frontend-test">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheus-beck/frontend-test">
