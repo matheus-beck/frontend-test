@@ -13,7 +13,7 @@
 
 Events App developed using React.js for the Full Stack Engineer challenge from a company.  
 I have deployed the REST API in the backend folder to this Heroku end-point: https://boiling-waters-87925.herokuapp.com/  
-You can find a deployed version of the app here: https://matheus-beck.github.io/frontend-test/
+You can find a deployed version of the app here: https://matheus-beck.github.io/react-events-app/
 
 ## 🎥 App Demonstration
 
