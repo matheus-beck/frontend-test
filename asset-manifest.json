@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/frontend-test/static/js/main.5a429c08.chunk.js",
-    "main.js.map": "/frontend-test/static/js/main.5a429c08.chunk.js.map",
-    "runtime-main.js": "/frontend-test/static/js/runtime-main.afc04f91.js",
-    "runtime-main.js.map": "/frontend-test/static/js/runtime-main.afc04f91.js.map",
-    "static/js/2.91ebe70a.chunk.js": "/frontend-test/static/js/2.91ebe70a.chunk.js",
-    "static/js/2.91ebe70a.chunk.js.map": "/frontend-test/static/js/2.91ebe70a.chunk.js.map",
-    "index.html": "/frontend-test/index.html",
-    "precache-manifest.b052b774cf02980752f472101943ccc5.js": "/frontend-test/precache-manifest.b052b774cf02980752f472101943ccc5.js",
-    "service-worker.js": "/frontend-test/service-worker.js",
-    "static/js/2.91ebe70a.chunk.js.LICENSE.txt": "/frontend-test/static/js/2.91ebe70a.chunk.js.LICENSE.txt",
-    "static/media/background.svg": "/frontend-test/static/media/background.3c9a1ce5.svg"
+    "main.js": "/react-events-app/static/js/main.5a429c08.chunk.js",
+    "main.js.map": "/react-events-app/static/js/main.5a429c08.chunk.js.map",
+    "runtime-main.js": "/react-events-app/static/js/runtime-main.afc04f91.js",
+    "runtime-main.js.map": "/react-events-app/static/js/runtime-main.afc04f91.js.map",
+    "static/js/2.91ebe70a.chunk.js": "/react-events-app/static/js/2.91ebe70a.chunk.js",
+    "static/js/2.91ebe70a.chunk.js.map": "/react-events-app/static/js/2.91ebe70a.chunk.js.map",
+    "index.html": "/react-events-app/index.html",
+    "precache-manifest.b052b774cf02980752f472101943ccc5.js": "/react-events-app/precache-manifest.b052b774cf02980752f472101943ccc5.js",
+    "service-worker.js": "/react-events-app/service-worker.js",
+    "static/js/2.91ebe70a.chunk.js.LICENSE.txt": "/react-events-app/static/js/2.91ebe70a.chunk.js.LICENSE.txt",
+    "static/media/background.svg": "/react-events-app/static/media/background.3c9a1ce5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.afc04f91.js",
